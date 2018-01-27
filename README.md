@@ -1,0 +1,1 @@
+# test-access-qml-objects-from-cpp
